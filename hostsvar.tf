@@ -54,7 +54,7 @@ variable "vm_size" {
 }
 
 variable "ou_path" {
-  default = ""
+  default = "AVDLab"
 }
 
 variable "local_admin_username" {
